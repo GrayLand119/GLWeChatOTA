@@ -1,0 +1,2 @@
+# GLWeChatOTA
+OTA manifest
